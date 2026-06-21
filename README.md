@@ -20,3 +20,18 @@ SDG 11: Sustainable Cities and Communities
 SDG 12: Responsible Consumption and Production
 SDG 13: Climate Action
 SDG 15: Life on Land
+
+▶️ How to Run the Project
+Bash
+pip install -r requirements.txt
+streamlit run app.py
+
+💡 Future Enhancements
+Image-based waste detection using camera
+GPS-based recycling center locator
+Multi-language support
+IoT smart bin integration
+
+👩‍💻 Developer
+Keerthika M
+
