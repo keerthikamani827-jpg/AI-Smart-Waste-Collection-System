@@ -38,7 +38,5 @@ GPS-based recycling center locator
 Multi-language support
 IoT smart bin integration
 
-👩‍💻 Developer
 
-Keerthika M
 
