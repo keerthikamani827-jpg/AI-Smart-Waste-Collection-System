@@ -39,7 +39,7 @@ Multi-language support
 IoT smart bin integration
 
 
-presentation
+click👇🏻for PPT presentation
 
 https://ap.wps.com/cms/docs/d/cbCaepMAQS475lDH
 
